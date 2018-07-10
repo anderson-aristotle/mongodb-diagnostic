@@ -4,17 +4,17 @@
 
 ## Prerequisites
 
--   [MongoDB](https://git.generalassemb.ly/ga-wdi-boston/mongodb)
+- [MongoDB](https://git.generalassemb.ly/ga-wdi-boston/mongodb)
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Install dependencies.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [lib/diagnostic.js](lib/diagnostic.js).
-1.  Test your work by running `mongo lib/diagnostic.js`.
-1.  Before the alotted time is up, push to your fork and issue a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Install dependencies.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [lib/diagnostic.js](lib/diagnostic.js).
+1. Test your work by running `mongo lib/diagnostic.js`.
+1. Before the alotted time is up, push to your fork and issue a pull request.
 
 Possible Pitfall: Is `mongodb` running?
 
@@ -40,6 +40,6 @@ searching for help online.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
